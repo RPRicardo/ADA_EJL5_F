@@ -25,7 +25,7 @@ def fusionar_listas(lists):
 
 
 # Ejecucion
-lists1 = [[1,4,5], [1,3,4], [2,6]]
-print(fusionar_listas(lists1))  # Output: [1, 1, 2, 3, 4, 4, 5, 6]
+lists1 = [[1,4,5], [1,3,4,6], [2,3,6,8]]
+print(fusionar_listas(lists1))  
 
 
